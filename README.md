@@ -3,7 +3,7 @@
 ## Utilsation du script
 > Ce script permet de changer facilement son adresse IP de son Poste
 
-> Ce Script a été tester sur une machine debian
+> Ce Script a été testé sur une machine debian
 
 ## Problème potentielle
 Il se peut qu'après avoir éxécuté le script des paramètres de la carte réseaux soient changer et provoquer des erreurs. Pour régler le problème vous devez aller dans les paramètres et recréer un profile et spécifiant une IP valide ou en DHCP pour être sûr.
